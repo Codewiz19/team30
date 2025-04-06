@@ -1,0 +1,33 @@
+2025-04-06 03:46:20,895 [WARNING] OPENAI_API_KEY not set in environment variables
+2025-04-06 03:46:52,837 [WARNING] OPENAI_API_KEY not set in environment variables
+2025-04-06 03:52:56,604 [WARNING] OPENAI_API_KEY not set in environment variables
+2025-04-06 04:02:35,558 [WARNING] GOOGLE_API_KEY not set in environment variables
+2025-04-06 04:05:20,303 [WARNING] GOOGLE_API_KEY not set in environment variables
+2025-04-06 05:09:37,792 [WARNING] GROQ_API_KEY not set in environment variables
+2025-04-06 05:09:37,793 [WARNING] OPENAI_API_KEY not set in environment variables (needed for embeddings)
+2025-04-06 05:10:48,721 [WARNING] GROQ_API_KEY not set in environment variables
+2025-04-06 05:10:48,721 [WARNING] OPENAI_API_KEY not set in environment variables (needed for embeddings)
+2025-04-06 05:15:23,991 [WARNING] GROQ_API_KEY not set in environment variables
+2025-04-06 05:15:23,991 [WARNING] OPENAI_API_KEY not set in environment variables (needed for embeddings)
+2025-04-06 07:12:35,460 [INFO] Loading RFP from uploaded file
+2025-04-06 07:12:35,587 [ERROR] Error extracting text from PDF: document closed
+2025-04-06 07:12:35,588 [ERROR] Failed to extract text from RFP
+2025-04-06 07:12:47,935 [INFO] Loading RFP from uploaded file
+2025-04-06 07:12:48,032 [ERROR] Error extracting text from PDF: document closed
+2025-04-06 07:12:48,033 [ERROR] Failed to extract text from RFP
+2025-04-06 07:13:18,056 [INFO] Loading RFP from uploaded file
+2025-04-06 07:13:18,154 [ERROR] Error extracting text from PDF: document closed
+2025-04-06 07:13:18,155 [ERROR] Failed to extract text from RFP
+2025-04-06 07:13:22,299 [INFO] Loading RFP from uploaded file
+2025-04-06 07:13:22,398 [ERROR] Error extracting text from PDF: document closed
+2025-04-06 07:13:22,398 [ERROR] Failed to extract text from RFP
+2025-04-06 07:16:42,360 [INFO] Loading RFP from uploaded file
+2025-04-06 07:16:42,476 [INFO] Successfully extracted text from PDF: 46861 characters
+2025-04-06 07:16:42,478 [INFO] Text split into 46 chunks
+2025-04-06 07:16:42,478 [ERROR] Error building vector store: GroqEmbeddings() takes no arguments
+2025-04-06 07:16:42,478 [ERROR] Failed to build vector store
+2025-04-06 08:29:52,794 [WARNING] OPENAI_API_KEY not set in environment variables
+2025-04-06 08:30:32,544 [WARNING] OPENAI_API_KEY not set in environment variables
+2025-04-06 08:30:32,923 [WARNING] OPENAI_API_KEY not set in environment variables
+2025-04-06 08:31:20,692 [WARNING] OPENAI_API_KEY not set in environment variables
+2025-04-06 08:31:21,047 [WARNING] OPENAI_API_KEY not set in environment variables
